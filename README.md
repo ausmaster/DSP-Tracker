@@ -1,5 +1,5 @@
-# DSP Tracker
-DSP Tracker is a Python application designed to track the user reported tips of infamous content creator: DarkSydePhil.
+# Detracker (aka. DSP Tracker)
+Detracker is a Python application designed to track the user reported tips of infamous content creator: DarkSydePhil.
 
 ## High Level Overview
 - Creates controlled web-browser
