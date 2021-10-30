@@ -1,5 +1,5 @@
 # Detracker (aka. DSP Tracker)
-Detracker is a Python application designed to track the user reported tips of infamous content creator: DarkSydePhil.
+Detracker is a Python 3.9+ application designed to track the user reported tips of infamous content creator: DarkSydePhil.
 
 ## High Level Overview
 - Creates controlled web-browser
@@ -10,6 +10,12 @@ Detracker is a Python application designed to track the user reported tips of in
 - Store information in database
 - Stop tracking when offline
 - Goes back to checking if DSP is online per interval
+
+## Requirements
+- Python 3.9+ 
+- Selenium Chrome Driver
+- MySQL Database (Alternatively SQLite)
+- Tesseract
 
 ## Disclaimer
 This applciation uses already existing public information (DSP streams and uploads videos on a public platform).
