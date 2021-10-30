@@ -154,6 +154,7 @@ screenshot3_topcrop.png
 /db
 /dataanalytics
 
+/venv
 /venv-dataanalytics
 trackerlog.log
 trackerlog.old.log
